@@ -1,0 +1,87 @@
+@charset "utf-8"
+
+html, body {
+    background-color: #333;
+    border: 0;
+}
+
+/* header-logo */
+.header-logo img {
+    width: 200px;
+    height: auto;
+}
+
+/* section1 */
+
+.salonArea  {
+    background-color: #333;
+}
+.title {
+    /* text-align: center;
+    color: blue;
+    background-color: #333; */
+
+}
+#salonWrap {
+
+}
+.clearfix {
+
+}
+
+
+#aboutarea {
+    background-color: #333;
+    padding: 60px 20px;
+    color: #fff;
+}
+#aboutTxt {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    color: #c3a36b;
+}
+
+#abouttxt h2 {
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: bold;
+    line-height: 1.2;
+    margin-bottom: 20px;
+
+}
+
+#abouttxt h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #c3a36d;
+}
+
+#aboutTxt {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.moreBtn a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid #c3a36b;
+    color: #c3a36b;
+    text-decoration: none;
+    transition: 0.3s;
+    border-radius: 2px;
+}
+
+.moreBtn a:hover {
+    background-color: #c3a36b;
+    color: #111;
+}
+
+article {
+    background-color: #333;
+}
+title {}
+title {}
+navEx {}
+moreBtn {}
